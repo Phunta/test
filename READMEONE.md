@@ -1,3 +1,3 @@
 # Demo
 
-something cool
+something cool!
